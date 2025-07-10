@@ -1,0 +1,96 @@
+2025-07-10 11:09:21,341 - deployment.main - INFO - Starting comprehensive deployment validation...
+2025-07-10 11:09:21,342 - deployment.graviton_safety - INFO - Validating Medical-Grade Graviton Safety Controller...
+2025-07-10 11:09:21,658 - deployment.graviton_safety - INFO - Testing safety level: neural_ultra_safe
+2025-07-10 11:09:21,659 - graviton_safety_controller - INFO - Graviton field system initialized with LQG polymer enhancement
+2025-07-10 11:09:21,659 - graviton_safety_controller - INFO - Safety monitoring system initialized
+2025-07-10 11:09:21,661 - graviton_safety_controller - INFO - Real-time monitoring systems started
+2025-07-10 11:09:21,662 - graviton_safety_controller - INFO - Medical Graviton Safety Controller initialized
+2025-07-10 11:09:21,662 - graviton_safety_controller - INFO - Safety level: neural_ultra_safe
+2025-07-10 11:09:21,663 - graviton_safety_controller - INFO - Maximum field strength: 1.00e-18 T
+2025-07-10 11:09:21,663 - graviton_safety_controller - INFO - LQG energy reduction: 2e+08×
+2025-07-10 11:09:21,663 - graviton_safety_controller - CRITICAL - EMERGENCY GRAVITON FIELD SHUTDOWN INITIATED
+2025-07-10 11:09:21,771 - graviton_safety_controller - CRITICAL - Emergency shutdown completed in 107.6ms - EXCEEDED medical limits
+2025-07-10 11:09:21,771 - graviton_safety_controller - INFO - Shutting down Medical Graviton Safety Controller
+2025-07-10 11:09:21,771 - graviton_safety_controller - INFO - Medical Graviton Safety Controller shutdown complete
+2025-07-10 11:09:21,772 - deployment.graviton_safety - INFO - Testing safety level: vascular_safe
+2025-07-10 11:09:21,772 - graviton_safety_controller - INFO - Graviton field system initialized with LQG polymer enhancement
+2025-07-10 11:09:21,772 - graviton_safety_controller - INFO - Safety monitoring system initialized
+2025-07-10 11:09:21,775 - graviton_safety_controller - INFO - Real-time monitoring systems started
+2025-07-10 11:09:21,775 - graviton_safety_controller - INFO - Medical Graviton Safety Controller initialized
+2025-07-10 11:09:21,775 - graviton_safety_controller - INFO - Safety level: vascular_safe
+2025-07-10 11:09:21,775 - graviton_safety_controller - INFO - Maximum field strength: 1.00e-16 T
+2025-07-10 11:09:21,775 - graviton_safety_controller - INFO - LQG energy reduction: 2e+08×
+2025-07-10 11:09:21,794 - graviton_safety_controller - CRITICAL - EMERGENCY GRAVITON FIELD SHUTDOWN INITIATED
+2025-07-10 11:09:21,902 - graviton_safety_controller - CRITICAL - Emergency shutdown completed in 108.0ms - EXCEEDED medical limits
+2025-07-10 11:09:21,903 - graviton_safety_controller - INFO - Shutting down Medical Graviton Safety Controller
+2025-07-10 11:09:21,903 - graviton_safety_controller - INFO - Medical Graviton Safety Controller shutdown complete
+2025-07-10 11:09:21,903 - deployment.graviton_safety - INFO - Testing safety level: cellular_safe
+2025-07-10 11:09:21,904 - graviton_safety_controller - INFO - Graviton field system initialized with LQG polymer enhancement
+2025-07-10 11:09:21,904 - graviton_safety_controller - INFO - Safety monitoring system initialized
+2025-07-10 11:09:21,907 - graviton_safety_controller - INFO - Real-time monitoring systems started
+2025-07-10 11:09:21,907 - graviton_safety_controller - INFO - Medical Graviton Safety Controller initialized
+2025-07-10 11:09:21,908 - graviton_safety_controller - INFO - Safety level: cellular_safe
+2025-07-10 11:09:21,909 - graviton_safety_controller - INFO - Maximum field strength: 1.00e-14 T
+2025-07-10 11:09:21,910 - graviton_safety_controller - INFO - LQG energy reduction: 2e+08×
+2025-07-10 11:09:21,928 - graviton_safety_controller - CRITICAL - EMERGENCY GRAVITON FIELD SHUTDOWN INITIATED
+2025-07-10 11:09:22,044 - graviton_safety_controller - CRITICAL - Emergency shutdown completed in 116.4ms - EXCEEDED medical limits
+2025-07-10 11:09:22,045 - graviton_safety_controller - INFO - Shutting down Medical Graviton Safety Controller
+2025-07-10 11:09:22,045 - graviton_safety_controller - INFO - Medical Graviton Safety Controller shutdown complete
+2025-07-10 11:09:22,045 - deployment.graviton_safety - INFO - Testing safety level: tissue_standard
+2025-07-10 11:09:22,045 - graviton_safety_controller - INFO - Graviton field system initialized with LQG polymer enhancement
+2025-07-10 11:09:22,046 - graviton_safety_controller - INFO - Safety monitoring system initialized
+2025-07-10 11:09:22,048 - graviton_safety_controller - INFO - Real-time monitoring systems started
+2025-07-10 11:09:22,048 - graviton_safety_controller - INFO - Medical Graviton Safety Controller initialized
+2025-07-10 11:09:22,049 - graviton_safety_controller - INFO - Safety level: tissue_standard
+2025-07-10 11:09:22,049 - graviton_safety_controller - INFO - Maximum field strength: 1.00e-12 T
+2025-07-10 11:09:22,049 - graviton_safety_controller - INFO - LQG energy reduction: 2e+08×
+2025-07-10 11:09:22,067 - graviton_safety_controller - CRITICAL - EMERGENCY GRAVITON FIELD SHUTDOWN INITIATED
+2025-07-10 11:09:22,185 - graviton_safety_controller - CRITICAL - Emergency shutdown completed in 118.8ms - EXCEEDED medical limits
+2025-07-10 11:09:22,186 - graviton_safety_controller - INFO - Shutting down Medical Graviton Safety Controller
+2025-07-10 11:09:22,187 - graviton_safety_controller - INFO - Medical Graviton Safety Controller shutdown complete
+2025-07-10 11:09:22,187 - deployment.graviton_safety - INFO - Testing safety level: organ_level
+2025-07-10 11:09:22,187 - graviton_safety_controller - INFO - Graviton field system initialized with LQG polymer enhancement
+2025-07-10 11:09:22,187 - graviton_safety_controller - INFO - Safety monitoring system initialized
+2025-07-10 11:09:22,190 - graviton_safety_controller - INFO - Real-time monitoring systems started
+2025-07-10 11:09:22,191 - graviton_safety_controller - INFO - Medical Graviton Safety Controller initialized
+2025-07-10 11:09:22,191 - graviton_safety_controller - INFO - Safety level: organ_level
+2025-07-10 11:09:22,191 - graviton_safety_controller - INFO - Maximum field strength: 1.00e-10 T
+2025-07-10 11:09:22,192 - graviton_safety_controller - INFO - LQG energy reduction: 2e+08×
+2025-07-10 11:09:22,226 - graviton_safety_controller - CRITICAL - EMERGENCY GRAVITON FIELD SHUTDOWN INITIATED
+2025-07-10 11:09:22,337 - graviton_safety_controller - CRITICAL - Emergency shutdown completed in 110.8ms - EXCEEDED medical limits
+2025-07-10 11:09:22,338 - graviton_safety_controller - INFO - Shutting down Medical Graviton Safety Controller
+2025-07-10 11:09:22,338 - graviton_safety_controller - INFO - Medical Graviton Safety Controller shutdown complete
+2025-07-10 11:09:22,338 - deployment.graviton_safety - INFO - Testing safety level: surgical_tools
+2025-07-10 11:09:22,338 - graviton_safety_controller - INFO - Graviton field system initialized with LQG polymer enhancement
+2025-07-10 11:09:22,338 - graviton_safety_controller - INFO - Safety monitoring system initialized
+2025-07-10 11:09:22,341 - graviton_safety_controller - INFO - Real-time monitoring systems started
+2025-07-10 11:09:22,341 - graviton_safety_controller - INFO - Medical Graviton Safety Controller initialized
+2025-07-10 11:09:22,342 - graviton_safety_controller - INFO - Safety level: surgical_tools
+2025-07-10 11:09:22,342 - graviton_safety_controller - INFO - Maximum field strength: 1.00e-08 T
+2025-07-10 11:09:22,343 - graviton_safety_controller - INFO - LQG energy reduction: 2e+08×
+2025-07-10 11:09:22,361 - graviton_safety_controller - CRITICAL - EMERGENCY GRAVITON FIELD SHUTDOWN INITIATED
+2025-07-10 11:09:22,467 - graviton_safety_controller - CRITICAL - Emergency shutdown completed in 105.9ms - EXCEEDED medical limits
+2025-07-10 11:09:22,468 - graviton_safety_controller - INFO - Shutting down Medical Graviton Safety Controller
+2025-07-10 11:09:22,468 - graviton_safety_controller - INFO - Medical Graviton Safety Controller shutdown complete
+2025-07-10 11:09:22,492 - deployment.tractor_array - INFO - Validating LQG-Enhanced Medical Tractor Array...
+2025-07-10 11:09:22,493 - deployment.tractor_array - ERROR - LQG medical tractor array validation failed: cannot import name 'LQGMedicalTractorArray' from 'array' (unknown location)
+2025-07-10 11:09:22,495 - deployment.uq_framework - INFO - Validating UQ Resolution Framework...
+2025-07-10 11:09:23,045 - uq_resolution_framework - INFO - Generating comprehensive UQ resolution report...
+2025-07-10 11:09:23,046 - uq_resolution_framework - INFO - Resolving statistical coverage validation at nanometer scale...
+2025-07-10 11:09:45,003 - uq_resolution_framework - INFO - Statistical coverage resolution: REQUIRES_CALIBRATION
+2025-07-10 11:09:45,003 - uq_resolution_framework - INFO - Observed coverage: 0.997244 ± 0.001719
+2025-07-10 11:09:45,004 - uq_resolution_framework - INFO - Wilson interval: [0.985604, 0.999477]
+2025-07-10 11:09:45,004 - uq_resolution_framework - INFO - Resolving multi-rate control loop interactions...
+2025-07-10 11:09:45,010 - uq_resolution_framework - INFO - Control loop stability resolution: REQUIRES_TUNING
+2025-07-10 11:09:45,011 - uq_resolution_framework - INFO - Overall stability metric: 1.041620
+2025-07-10 11:09:45,011 - uq_resolution_framework - INFO - Safety margin: -0.141620
+2025-07-10 11:09:45,011 - uq_resolution_framework - INFO - Resolving robustness under parameter variations...
+2025-07-10 11:09:46,051 - uq_resolution_framework - INFO - Robustness resolution: REQUIRES_DESIGN_MODIFICATION
+2025-07-10 11:09:46,052 - uq_resolution_framework - INFO - 99.9% worst-case degradation: 0.998185
+2025-07-10 11:09:46,052 - uq_resolution_framework - INFO - Safety margin: -0.948185
+2025-07-10 11:09:46,052 - uq_resolution_framework - INFO - Resolving medical scaling feasibility...
+2025-07-10 11:09:46,053 - uq_resolution_framework - INFO - Scaling feasibility resolution: REQUIRES_OPTIMIZATION
+2025-07-10 11:09:46,053 - uq_resolution_framework - INFO - Maximum feasible scale: 8 treatment rooms
+2025-07-10 11:09:46,053 - uq_resolution_framework - INFO - Deployment readiness: 0.500
+2025-07-10 11:09:46,054 - deployment.regulatory - INFO - Validating regulatory compliance framework...
+2025-07-10 11:09:46,055 - deployment.report - INFO - Generating comprehensive deployment report...
